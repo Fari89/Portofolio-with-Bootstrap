@@ -758,7 +758,7 @@ p {
 }
 @media (max-width: 768px) {
   .header_hero {
-    height: 110vh;
+    height: 130vh;
     padding-top: 70px;
   }
 }
